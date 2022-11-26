@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="kilometer_to_meter">Kilometer to meter</string>
+    <string name="pound_to_kilogram">Pound to kilogram</string>
+    <string name="choose_one">Choose one</string>
+    <string name="value_input">Value</string>
+    <string name="round_up_result">Round up result?</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result is: %s</string>
+    <string name="minute_to_second">Minute to second</string>
+</resources>
